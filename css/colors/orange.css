@@ -1,0 +1,27 @@
+
+
+
+
+.btn-main {
+	background-color: #fa7120;
+	color: #fff;
+}
+
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active, .cbp-l-filters-button .cbp-filter-item:hover,
+.green,
+.highlight,
+.social-icons li a:hover {
+    color: #fa7120!important
+}
+
+.bg-green {
+	background-color: #fa7120!important
+}
+
+#back-to-top {
+    background-color: #fa7120;
+}
+
+.separator {
+    border-bottom: 2px solid #fa7120!important
+}
